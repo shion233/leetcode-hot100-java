@@ -1,4 +1,4 @@
-package 旋转图像48;
+package array.旋转图像48;
 
 class Solution {
     /*

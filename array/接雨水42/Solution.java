@@ -1,4 +1,4 @@
-package 接雨水42;
+package array.接雨水42;
 
 import java.util.Arrays;
 

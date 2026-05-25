@@ -1,4 +1,4 @@
-package 三数之和15;
+package array.三数之和15;
 
 import java.util.ArrayList;
 import java.util.Arrays;

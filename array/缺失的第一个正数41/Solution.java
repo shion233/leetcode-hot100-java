@@ -1,4 +1,4 @@
-package 缺失的第一个正数41;
+package array.缺失的第一个正数41;
 
 class Solution {
     /*

@@ -1,4 +1,4 @@
-package 移动零283;
+package array.移动零283;
 
 import java.util.Arrays;
 

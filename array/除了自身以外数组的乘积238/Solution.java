@@ -1,4 +1,4 @@
-package 除了自身以外数组的乘积238;
+package array.除了自身以外数组的乘积238;
 
 import java.util.Arrays;
 //题目期望的解法是用前缀积和后缀积

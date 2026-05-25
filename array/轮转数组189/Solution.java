@@ -1,4 +1,4 @@
-package 轮转数组189;
+package array.轮转数组189;
 
 import java.util.Arrays;
 import java.util.stream.Stream;

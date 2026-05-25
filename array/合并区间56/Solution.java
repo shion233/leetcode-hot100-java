@@ -1,4 +1,4 @@
-package 合并区间56;
+package array.合并区间56;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package 矩阵置零73;
+package array.矩阵置零73;
 
 class Solution {
     /*
