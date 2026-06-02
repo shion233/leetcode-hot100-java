@@ -31,7 +31,7 @@ leetcode-hot100-java/
 | 动态规划 / Dynamic Programming | 53. 最大子数组和 |
 | 栈与队列 / Stack & Queue | 239. 滑动窗口最大值 |
 | 滑动窗口 / Sliding Window | 3. 无重复字符的最长子串, 76. 最小覆盖子串, 438. 找到字符串中所有字母异位词 |
-| 回溯 / Backtracking | 46. 全排列, 78. 子集 |
+| 回溯 / Backtracking | 17. 电话号码的字母组合, 46. 全排列, 78. 子集 |
 | 图 / Graph | 暂无 / None yet |
 
 ## 运行 / Run
