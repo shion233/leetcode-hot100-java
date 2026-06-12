@@ -24,14 +24,22 @@
                 <configuration>
                     <includes>
                         <include>array/**/*.java</include>
-                        <include>hash_table/**/*.java</include>
+                        <include>hash/**/*.java</include>
+                        <include>two_pointers/**/*.java</include>
+                        <include>substring/**/*.java</include>
+                        <include>matrix/**/*.java</include>
                         <include>linked_list/**/*.java</include>
                         <include>binary_tree/**/*.java</include>
                         <include>dynamic_programming/**/*.java</include>
                         <include>backtracking/**/*.java</include>
-                        <include>stack_queue/**/*.java</include>
+                        <include>binary_search/**/*.java</include>
+                        <include>stack/**/*.java</include>
+                        <include>heap/**/*.java</include>
+                        <include>greedy/**/*.java</include>
                         <include>sliding_window/**/*.java</include>
                         <include>graph/**/*.java</include>
+                        <include>multidimensional_dp/**/*.java</include>
+                        <include>techniques/**/*.java</include>
                     </includes>
                 </configuration>
             </plugin>
