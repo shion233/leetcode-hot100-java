@@ -8,6 +8,7 @@ class Solution {
      * - 如果 nums[mid] > nums[high]，说明 mid 落在左侧较大的一段，最小值一定在 mid 右边，所以 low = mid + 1。
      * - 如果 nums[mid] < nums[high]，说明 mid 到 high 这一段有序，最小值可能就是 mid，也可能在左边，所以 high = mid。
      * - 代码没有注释掉的旧解法，当前思路是本题常见二分做法，最终 low == high 时该位置就是最小值下标。
+     * - 本题旋转感觉更像是循环右移
      */
     public int findMin(int[] nums) {
         if (nums.length==1) return nums[0];
