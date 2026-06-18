@@ -1,5 +1,5 @@
 # 栈 / Stack
 
-当前还没有归入该分类的题目。
+当前题目：
 
-No problem has been added to this category yet.
+- 20. 有效的括号
