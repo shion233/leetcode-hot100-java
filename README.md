@@ -45,7 +45,7 @@ leetcode-hot100-java/
 | 二分查找 / Binary Search | 4. 寻找两个正序数组的中位数；33. 搜索旋转排序数组；34. 在排序数组中查找元素的第一个和最后一个位置；35. 搜索插入位置；74. 搜索二维矩阵；153. 寻找旋转排序数组中的最小值 |
 | 栈 / Stack | 20. 有效的括号；84. 柱状图中最大的矩形；155. 最小栈；394. 字符串解码；739. 每日温度 |
 | 堆 / Heap | 215. 数组中的第 K 个最大元素；295. 数据流的中位数；347. 前 K 个高频元素 |
-| 贪心算法 / Greedy | 暂无 / None yet |
+| 贪心算法 / Greedy | 121. 买卖股票的最佳时机 |
 | 动态规划 / Dynamic Programming | 暂无 / None yet |
 | 多维动态规划 / Multidimensional DP | 暂无 / None yet |
 | 技巧 / Techniques | 暂无 / None yet |
