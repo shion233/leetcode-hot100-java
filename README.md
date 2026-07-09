@@ -46,7 +46,7 @@ leetcode-hot100-java/
 | 栈 / Stack | 20. 有效的括号；84. 柱状图中最大的矩形；155. 最小栈；394. 字符串解码；739. 每日温度 |
 | 堆 / Heap | 215. 数组中的第 K 个最大元素；295. 数据流的中位数；347. 前 K 个高频元素 |
 | 贪心算法 / Greedy | 45. 跳跃游戏 II；55. 跳跃游戏；121. 买卖股票的最佳时机；763. 划分字母区间 |
-| 动态规划 / Dynamic Programming | 70. 爬楼梯；118. 杨辉三角 |
+| 动态规划 / Dynamic Programming | 70. 爬楼梯；118. 杨辉三角；198. 打家劫舍 |
 | 多维动态规划 / Multidimensional DP | 暂无 / None yet |
 | 技巧 / Techniques | 暂无 / None yet |
 
